@@ -4,4 +4,6 @@ var galToLiter = function () {
   return (conversion * 3.785);
 };
 
-alert(galToLiter());
+var ounceToLiter = function () {
+  return (conversion * 29.573);
+};
